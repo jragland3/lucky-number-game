@@ -1,4 +1,4 @@
-package returnResult
+package handlers
 
 import (
 	"fmt"
@@ -11,7 +11,7 @@ import (
 // Used to compare the guess to the random numbers generated and print the results
 func ReturnResult(guess, maxTurns int, args []string, verbose, doubleGuess bool) {
 	// Randomize messages
-	win, lose := randomMsgs.SetRandomMsg()
+	win, lose := handlers.SetRandomMsg()
 
 	if doubleGuess {
 		fmt.Printf("First Round: ")
@@ -57,7 +57,7 @@ func ReturnResult(guess, maxTurns int, args []string, verbose, doubleGuess bool)
 			return
 		}
 		
-		win, lose := randomMsgs.SetRandomMsg()
+		win, lose := handlers.SetRandomMsg()
 
 		fmt.Printf("Second Round: ")
 		

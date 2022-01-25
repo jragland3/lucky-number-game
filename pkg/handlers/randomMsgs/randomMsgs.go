@@ -1,4 +1,4 @@
-package randomMsgs
+package handlers
 
 import "math/rand"
 

@@ -59,5 +59,5 @@ func main() {
 
 
 	// Prints results (success/failure) of the guess attempts
-	returnResult.ReturnResult(guess, maxTurns, args, verbose, doubleGuess)
+	handlers.ReturnResult(guess, maxTurns, args, verbose, doubleGuess)
 }
