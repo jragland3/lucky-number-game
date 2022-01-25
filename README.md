@@ -1,4 +1,4 @@
-# gobootcamp
+# gobootcamp: Lucky Number Game
 
 The Lucky number game accepts a number and compares it to 5 psuedo-random numbers. If the generated number matches the user-entered number, you win!
 
