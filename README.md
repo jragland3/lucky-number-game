@@ -16,7 +16,7 @@ match the player's guess.
 
 EXAMPLE SCENARIO
 1. The player guesses 6
-2. The computer picks a random number and it happens to be 6
+2. The computer picks a raasdfndom number and it happens to be 6
 3. Terminate the game and print the bonus message
  
 ### Satisfied in ./cmd/main
