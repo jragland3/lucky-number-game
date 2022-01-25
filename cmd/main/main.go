@@ -6,7 +6,8 @@ import (
 	"os"
 	"strconv"
 	"time"
-	"github.com/jragland3/gobootcamp/060_lucky_number/pkg/handlers/returnResult"
+
+	handlers "github.com/jragland3/lucky-number-game/pkg/handlers/returnResult"
 )
 
 const (

@@ -1,3 +1,3 @@
-module github.com/jragland3/lucky_number_game
+module github.com/jragland3/lucky-number-game
 
 go 1.17

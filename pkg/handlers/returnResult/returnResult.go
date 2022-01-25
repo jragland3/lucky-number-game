@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"strconv"
 
-	"github.com/jragland3/gobootcamp/060_lucky_number/pkg/handlers/randomMsgs"
+	handlers "github.com/jragland3/lucky-number-game/pkg/handlers/randomMsgs"
 )
 
 // Used to compare the guess to the random numbers generated and print the results
