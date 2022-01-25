@@ -1,3 +1,3 @@
-module github.com/jragland3/gobootcamp/060_lucky_number
+module github.com/jragland3/lucky_number_game
 
 go 1.17
