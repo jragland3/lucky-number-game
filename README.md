@@ -18,7 +18,7 @@ EXAMPLE SCENARIO
 1. The player guesses 6
 2. The computer picks a random number and it happens to be 6
 3. Terminate the game and print the bonus message
-TEST2
+TEST3
  
 ### Satisfied in ./cmd/main
  
